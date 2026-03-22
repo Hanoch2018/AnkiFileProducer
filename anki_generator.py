@@ -1,96 +1,126 @@
 import genanki
 import os
-import sys
 
-# ==========================================
-# 1. 定义卡片模板和记忆库 (配置部分保持不变)
-# ==========================================
-MODEL_ID = 1607392319 
-my_model = genanki.Model(
-    MODEL_ID,
-    '简单中英双语模板',
-    fields=[{'name': 'EnglishWord'}, {'name': 'ChineseMeaning'}],
+# 1. 定义卡片模型 (Models) - 增加 Remark 字段
+BASIC_MODEL_ID = 1607392319
+REVERSED_MODEL_ID = 1607392320
+CLOZE_MODEL_ID = 1607392321
+
+# 基础型卡片模型 (带备注)
+basic_model = genanki.Model(
+    BASIC_MODEL_ID,
+    'Basic with Remark',
+    fields=[{'name': 'Front'}, {'name': 'Back'}, {'name': 'Remark'}],
     templates=[{
-        'name': '单词卡片',
-        'qfmt': '<h2 style="text-align:center; color:#2c3e50;">{{EnglishWord}}</h2>',
-        'afmt': '{{FrontSide}}<hr id="answer"><div style="text-align:center; font-size: 18px;">{{ChineseMeaning}}</div>',
+        'name': 'Card 1',
+        'qfmt': '{{Front}}',
+        # 背面模板：如果 Remark 有内容，就用灰色小字显示在下方
+        'afmt': '{{FrontSide}}<hr id="answer">{{Back}}<br><br><div style="color: gray; font-size: 0.9em;">{{Remark}}</div>',
     }]
 )
 
+# 基础型反向模型 (带备注)
+reversed_model = genanki.Model(
+    REVERSED_MODEL_ID,
+    'Reversed with Remark',
+    fields=[{'name': 'Front'}, {'name': 'Back'}, {'name': 'Remark'}],
+    templates=[
+        {
+            'name': 'Forward',
+            'qfmt': '{{Front}}',
+            'afmt': '{{FrontSide}}<hr id="answer">{{Back}}<br><br><div style="color: gray; font-size: 0.9em;">{{Remark}}</div>',
+        },
+        {
+            'name': 'Backward',
+            'qfmt': '{{Back}}',
+            'afmt': '{{FrontSide}}<hr id="answer">{{Front}}<br><br><div style="color: gray; font-size: 0.9em;">{{Remark}}</div>',
+        },
+    ]
+)
+
+# 填空型卡片模型 (带备注)
+cloze_model = genanki.Model(
+    CLOZE_MODEL_ID,
+    'Cloze with Remark',
+    model_type=genanki.Model.CLOZE,
+    fields=[{'name': 'Text'}, {'name': 'Remark'}],
+    templates=[{
+        'name': 'Cloze',
+        'qfmt': '{{cloze:Text}}',
+        'afmt': '{{cloze:Text}}<br><br><div style="color: gray; font-size: 0.9em;">{{Remark}}</div>',
+    }],
+    css='.cloze {font-weight: bold; color: blue;}'
+)
+
+# 2. 创建记忆库 (Deck)
 DECK_ID = 2059400110
-my_deck = genanki.Deck(DECK_ID, '我的专属英语词汇库 (高健壮性版)')
+my_deck = genanki.Deck(DECK_ID, '我的技术与英语词库')
 
-# ==========================================
-# 2. 核心逻辑：带异常捕获的文件读取与解析
-# ==========================================
-txt_file_path = 'my_words.txt'
-output_filename = 'my_english_vocab.apkg'
+# 3. 解析 TXT 文件
+def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
+    if not os.path.exists(txt_filename):
+        print(f"错误: 找不到文件 {txt_filename}")
+        return
 
-success_count = 0
-error_count = 0
+    error_lines = []
 
-print("⏳ 正在读取数据并生成卡片...")
-
-# 外层 try：捕获文件本身的问题
-try:
-    with open(txt_file_path, 'r', encoding='utf-8') as file:
-        # 使用 enumerate 可以在遍历时自动获取行号 (line_num)，这对排查错误极其有用
-        for line_num, line in enumerate(file, 1):
+    with open(txt_filename, 'r', encoding='utf-8') as f:
+        for line_num, original_line in enumerate(f, 1):
+            line = original_line.strip()
+            if not line or line.startswith('#'):
+                continue
             
-            # 内层 try：捕获每一行数据的格式问题。即使这一行报错，也不会中断整个循环
+            parts = [p.strip() for p in line.split('|||')]
+            
+            # 至少需要 3 个部分: 类型, 字段1, 字段2
+            if len(parts) < 3:
+                print(f"警告: 第 {line_num} 行格式不正确，已记录。")
+                error_lines.append(original_line)
+                continue
+
+            card_type = parts[0].lower()
+            field1 = parts[1]
+            field2 = parts[2]
+            # 动态获取备注：如果提供了第 4 个部分就读取，否则置为空字符串
+            remark = parts[3] if len(parts) >= 4 else ""
+            
             try:
-                clean_line = line.strip()
-                if not clean_line:  # 智能跳过空行
-                    continue
-
-                parts = clean_line.split('|')
+                if card_type == 'basic':
+                    # 注意：fields 列表必须和模型定义的字段数量一致
+                    note = genanki.Note(model=basic_model, fields=[field1, field2, remark])
+                    my_deck.add_note(note)
                 
-                # 严格的数据校验
-                if len(parts) != 2:
-                    raise ValueError("缺少或多余分隔符 '|'")
+                elif card_type == 'reversed':
+                    note = genanki.Note(model=reversed_model, fields=[field1, field2, remark])
+                    my_deck.add_note(note)
                 
-                en_word = parts[0].strip()
-                cn_meaning = parts[1].strip()
+                elif card_type == 'cloze':
+                    # Cloze 模型只有两个字段：Text 和 Remark。我们将 field2 和 remark 合并显示，或者直接用 field2 作为备注
+                    # 为了兼容之前的习惯，在填空题里，field2 直接作为 remark 字段传入
+                    note = genanki.Note(model=cloze_model, fields=[field1, field2])
+                    my_deck.add_note(note)
                 
-                if not en_word or not cn_meaning:
-                    raise ValueError("英文或中文内容为空")
-
-                # 组装并添加卡片
-                my_note = genanki.Note(
-                    model=my_model,
-                    fields=[en_word, cn_meaning]
-                )
-                my_deck.add_note(my_note)
-                success_count += 1
+                else:
+                    print(f"警告: 第 {line_num} 行未知卡片类型 '{parts[0]}'，已记录。")
+                    error_lines.append(original_line)
 
             except Exception as e:
-                # 精确指出是哪一行出了什么错，极大节省 Debug 时间
-                print(f"⚠️ 格式警告 -> 跳过第 {line_num} 行 [{clean_line}]: {e}")
-                error_count += 1
+                 print(f"处理第 {line_num} 行时发生异常: {e}，已记录。")
+                 error_lines.append(original_line)
 
-except FileNotFoundError:
-    print(f"❌ 致命错误：找不到文件 '{txt_file_path}'。请确保文件与脚本在同一个文件夹。")
-    sys.exit(1) # 异常退出脚本
-except UnicodeDecodeError:
-    print(f"❌ 致命错误：文件编码不是 UTF-8。请用记事本打开 txt 文件，点击'另存为'，在底部的编码栏选择 'UTF-8'。")
-    sys.exit(1)
-except Exception as e:
-    print(f"❌ 发生未知的系统错误：{e}")
-    sys.exit(1)
+    # 4. 导出
+    output_filename = 'Tech_English_Notes.apkg'
+    genanki.Package(my_deck).write_to_file(output_filename)
+    print(f"\n成功! 卡片包已导出为: {output_filename}")
 
-# ==========================================
-# 3. 带异常捕获的文件打包写入
-# ==========================================
-try:
-    if success_count > 0:
-        genanki.Package(my_deck).write_to_file(output_filename)
-        print(f"\n✅ 完美收工！成功生成了 {success_count} 张卡片。")
-        if error_count > 0:
-            print(f"💡 提示：有 {error_count} 行脏数据被自动过滤，请查看上方警告信息。")
-        print(f"📁 导出文件绝对路径: {os.path.abspath(output_filename)}")
+    # 5. 错误处理
+    if error_lines:
+        with open(error_filename, 'w', encoding='utf-8') as ef:
+            ef.writelines(error_lines)
+        print(f"⚠️ 注意: 发现了 {len(error_lines)} 行错误数据！已保存至 {error_filename}。")
     else:
-        print("\n⚠️ 脚本执行完毕，但没有成功读取到任何有效数据，未生成 apkg 文件。")
-except PermissionError:
-    print(f"\n❌ 写入失败：没有权限保存文件 '{output_filename}'。这通常是因为该文件正在被其他程序打开，请关闭后重试。")
-except Exception as e:
-    print(f"\n❌ 打包生成 .apkg 文件时出错：{e}")
+        if os.path.exists(error_filename):
+            os.remove(error_filename)
+
+if __name__ == '__main__':
+    generate_deck_from_txt('my_notes.txt', 'error_lines.txt')

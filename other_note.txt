@@ -1,3 +1,6 @@
 Basic ||| 在使用 tshark 抓包时，哪个参数用于实现文件的自动轮转（Ring Buffer，按大小或时间自动切割保存）？ ||| -b 参数。 ||| 备注：常用于长时间的持续抓包测试，防止单个 pcap 文件过大导致无法用 Wireshark 打开。
 Basic ||| tshark 的 -b filesize:100 参数中，设定的数值单位是什么？ ||| KB (千字节)。 ||| 备注：如果需要按 100MB 切割文件，应该写成 -b filesize:100000。
 Basic ||| tshark 开启了 -b 文件轮转机制后，生成的文件名会自动带上什么信息？ ||| 会自动在基础文件名后追加“5位数的自增序号”和“精确到秒的创建时间戳”。 ||| 备注：例如 name_00001_20260331043020.pcap。
+Basic ||| Linux 中如何让一个命令在后台运行，且在 SSH 断开后不停止？ ||| 使用 nohup <命令> & 或者使用 screen/tmux 终端复用工具。 ||| 备注：nohup 适合简单任务，screen 适合需要反复查看进度的复杂测试任务。
+Basic ||| 在执行后台任务时，> /dev/null 2>&1 的作用是什么？ ||| 将“标准输出”和“错误输出”全部重定向到黑洞设备，防止产生冗余的日志文件或占用磁盘空间。 ||| 备注：对于像 tshark 这种实时产生大量屏幕信息的工具非常必要。
+Basic ||| 在 Ubuntu 中，如何一劳永逸地解决 tshark/wireshark 必须使用 sudo 才能抓包的问题？ ||| 1. 运行 sudo dpkg-reconfigure wireshark-common 开启非 root 抓包。 2. 将用户加入专属组：sudo usermod -aG wireshark $USER。 ||| 备注：配置完成后必须重新登录终端才能生效。

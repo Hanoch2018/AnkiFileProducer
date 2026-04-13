@@ -1,120 +1,120 @@
-Reversed ||| What time do you usually get up? ||| 你通常几点起床？
-Reversed ||| I usually get up at 6:00 a.m. ||| 我通常早上6点起床。
-Reversed ||| How do you start your day? ||| 你如何开始你的一天？
-Reversed ||| I start my day with a cup of coffee. ||| 我以一杯咖啡开始我的一天。
-Reversed ||| Do you drink coffee every day? ||| 你每天都喝咖啡吗？
-Reversed ||| Yes, I drink coffee every morning. ||| 是的，我每天早上都喝咖啡。
-Reversed ||| What do you have for breakfast? ||| 你早饭吃什么？
-Reversed ||| I usually have toast and eggs for breakfast. ||| 我早饭通常吃吐司和鸡蛋。
-Reversed ||| Do you exercise in the morning? ||| 你早上锻炼吗？
-Reversed ||| Yes, I go for a jog every morning. ||| 是的，我每天早上慢跑。
-Reversed ||| How do you get to work? ||| 你怎么去上班？
-Reversed ||| I take the bus to work. ||| 我乘公交车去上班。
-Reversed ||| How did you commute to school? ||| 你过去怎么上学？
-Reversed ||| I rode my bike. ||| 我骑自行车。
-Reversed ||| How long did it take? ||| 花了多长时间？
-Reversed ||| It usually took me around half an hour. ||| 通常花我大约半小时。
-Reversed ||| What time do you leave for work? ||| 你几点出发去上班？
-Reversed ||| I leave for work at 7:50 a.m. ||| 我早上7点50分出发去上班。
-Reversed ||| How do you spend your commute? ||| 你通勤路上怎么打发时间？
-Reversed ||| I usually listen to audiobooks. ||| 我通常听有声读物。
-Reversed ||| What time do you start work? ||| 你几点开始工作？
-Reversed ||| I start work at 9:00 a.m. ||| 我早上9点开始工作。
-Reversed ||| Do you listen to music while working? ||| 你工作时听音乐吗？
-Reversed ||| Yes, I find it helps me concentrate. ||| 是的，我发现它有助于我集中注意力。
-Reversed ||| What do you do during your lunch break? ||| 你午休时做什么？
-Reversed ||| I usually have lunch at a nearby cafe. ||| 我通常在附近的一家咖啡馆吃午饭。
-Reversed ||| How long is your lunch break? ||| 你的午休时间有多长？
-Reversed ||| My lunch break is 1 hour long. ||| 我的午休时间是1小时。
-Reversed ||| Do you bring lunch to work? ||| 你带午饭去上班吗？
-Reversed ||| Yes, I usually bring a packed lunch. ||| 是的，我通常带盒饭。
-Reversed ||| Do you take any coffee breaks during the day? ||| 你白天会有咖啡休息时间吗？
-Reversed ||| Yes, I take a coffee break in the afternoon. ||| 是的，我在下午会有个咖啡休息时间。
-Reversed ||| Do you prefer tea or coffee? ||| 你更喜欢茶还是咖啡？
-Reversed ||| I prefer tea in the afternoon. ||| 我下午更喜欢茶。
-Reversed ||| What time do you finish work? ||| 你几点下班？
-Reversed ||| I finish work at 5:00 p.m. ||| 我下午5点下班。
-Reversed ||| What do you do after work? ||| 你下班后做什么？
-Reversed ||| I go to the gym after work. ||| 我下班后去健身房。
-Reversed ||| How often do you go to the gym? ||| 你多久去一次健身房？
-Reversed ||| I go to the gym three times a week. ||| 我每周去三次健身房。
-Reversed ||| Do you play any sports? ||| 你做运动吗？
-Reversed ||| Yes, I play tennis. ||| 是的，我打网球。
-Reversed ||| Do you cook dinner? ||| 你做晚饭吗？
-Reversed ||| Yes, I usually cook dinner for my family. ||| 是的，我通常为家人做晚饭。
-Reversed ||| Do you like to cook? ||| 你喜欢做饭吗？
-Reversed ||| Yes, I enjoy cooking new recipes. ||| 是的，我喜欢尝试新食谱做饭。
-Reversed ||| What time do you usually have dinner? ||| 你通常几点吃晚饭？
-Reversed ||| I usually have dinner around 7:30 p.m. ||| 我通常在晚上7点30分左右吃晚饭。
-Reversed ||| What do you usually have for dinner? ||| 你晚饭通常吃什么？
-Reversed ||| I usually have a light dinner like salad or soup. ||| 我通常吃一顿清淡的晚餐，比如沙拉或汤。
-Reversed ||| Do you like to eat out? ||| 你喜欢在外面吃饭吗？
-Reversed ||| Yes, I enjoy trying new restaurants. ||| 是的，我喜欢尝试新的餐厅。
-Reversed ||| Do you watch TV in the evening? ||| 你晚上看电视吗？
-Reversed ||| Yes, I watch TV for about an hour. ||| 是的，我看大约一小时电视。
-Reversed ||| Do you help your kids with homework? ||| 你辅导孩子做作业吗？
-Reversed ||| Yes, I help them with their homework every evening. ||| 是的，我每天晚上都辅导他们做作业。
-Reversed ||| How do you unwind in the evening? ||| 你晚上如何放松？
-Reversed ||| I like to do some light stretching or yoga. ||| 我喜欢做一些轻度的拉伸或瑜伽。
-Reversed ||| How do you relax after a long day? ||| 漫长的一天后你如何放松？
-Reversed ||| I relax by reading or listening to music. ||| 我通过阅读或听音乐来放松。
-Reversed ||| Do you read before going to bed? ||| 你睡前阅读吗？
-Reversed ||| Yes, I like to read a book before sleeping. ||| 是的，我喜欢在睡前看书。
-Reversed ||| What time do you go to bed? ||| 你几点上床睡觉？
-Reversed ||| I go to bed around 10 p.m. ||| 我晚上10点左右上床睡觉。
-Reversed ||| Do you meditate? ||| 你冥想吗？
-Reversed ||| Yes, I meditate regularly. ||| 是的，我定期冥想。
-Reversed ||| How do you relax before going to bed? ||| 你睡前如何放松？
-Reversed ||| I listen to calm music. ||| 我听舒缓的音乐。
-Reversed ||| Do you set an alarm for the morning? ||| 你会定早上的闹钟吗？
-Reversed ||| Yes, I set an alarm for 6:30 a.m. ||| 是的，我定了一个早上6点30分的闹钟。
-Reversed ||| How many hours of sleep do you get? ||| 你睡多少个小时？
-Reversed ||| I get about 7 hours of sleep. ||| 我睡大约7个小时。
-Reversed ||| What do you do if you can't sleep? ||| 如果你睡不着会怎么做？
-Reversed ||| If I can't sleep I sometimes take a sleeping pill. ||| 如果我睡不着，有时我会吃安眠药。
-Reversed ||| Do you prefer showers or baths? ||| 你喜欢淋浴还是泡澡？
-Reversed ||| I prefer showers. ||| 我喜欢淋浴。
-Reversed ||| How often do you do laundry? ||| 你多久洗一次衣服？
-Reversed ||| I do laundry twice a week. ||| 我一周洗两次衣服。
-Reversed ||| Do you cook your own meals? ||| 你自己做饭吗？
-Reversed ||| Yes, I enjoy cooking my own meals. ||| 是的，我喜欢自己做饭。
-Reversed ||| Do you clean your house every day? ||| 你每天都打扫房子吗？
-Reversed ||| No, I clean my house once a week. ||| 不，我一周打扫一次房子。
-Reversed ||| How often do you go grocery shopping? ||| 你多久去一次杂货店购物？
-Reversed ||| I go grocery shopping once a week. ||| 我每周去一次杂货店购物。
-Reversed ||| How often do you change your bed sheets? ||| 你多久换一次床单？
-Reversed ||| I change my bed sheets once a week. ||| 我每周换一次床单。
-Reversed ||| Do you iron your clothes? ||| 你熨衣服吗？
-Reversed ||| Yes, I iron my clothes before wearing them. ||| 是的，我穿衣服前会熨一下。
-Reversed ||| How often do you vacuum your house? ||| 你多久用吸尘器打扫一次房子？
-Reversed ||| I vacuum my house twice a week. ||| 我每周用吸尘器打扫两次房子。
-Reversed ||| Do you recycle? ||| 你回收垃圾吗？
-Reversed ||| Yes, I always separate my recyclables. ||| 是的，我总是把可回收物分开。
-Reversed ||| How do you spend your weekends? ||| 你如何度过周末？
-Reversed ||| I spend my weekends hiking or visiting friends. ||| 我周末去徒步或拜访朋友。
-Reversed ||| Do you go for a walk every day? ||| 你每天都去散步吗？
-Reversed ||| Yes, I go for a walk in the evening. ||| 是的，我晚上去散步。
-Reversed ||| Do you have any pets? ||| 你有宠物吗？
-Reversed ||| Yes, I have a dog. ||| 是的，我养了一只狗。
-Reversed ||| Do you take your dog for a walk? ||| 你带你的狗去散步吗？
-Reversed ||| Yes, I take my dog for a walk twice a day. ||| 是的，我每天带我的狗散步两次。
-Reversed ||| How often do you visit your family? ||| 你多久看望一次家人？
-Reversed ||| I visit my family every weekend. ||| 我每个周末都去看望家人。
-Reversed ||| Do you like gardening? ||| 你喜欢园艺吗？
-Reversed ||| Yes, I enjoy gardening on weekends. ||| 是的，我喜欢在周末做园艺。
-Reversed ||| Do you have a hobby? ||| 你有爱好吗？
-Reversed ||| Yes, I like painting. ||| 是的，我喜欢画画。
-Reversed ||| Do you have any plants at home? ||| 你家里有植物吗？
-Reversed ||| Yes, I have several house plants. ||| 是的，我有几盆室内植物。
-Reversed ||| How often do you water your plants? ||| 你多久给植物浇一次水？
-Reversed ||| I water my plants every other day. ||| 我每隔一天给植物浇一次水。
-Reversed ||| Do you use public transportation? ||| 你使用公共交通工具吗？
-Reversed ||| Not often, I usually drive. ||| 不经常，我通常开车。
-Reversed ||| How often do you meet with friends? ||| 你多久和朋友见一次面？
-Reversed ||| Several times a month. ||| 一个月几次。
-Reversed ||| Do you use social media? ||| 你使用社交媒体吗？
-Reversed ||| Yes, I check my social media daily. ||| 是的，我每天查看我的社交媒体。
-Reversed ||| How do you usually spend your holidays? ||| 你通常如何度过假期？
-Reversed ||| I spend my holidays with family and friends. ||| 我和家人朋友一起度过假期。
-Reversed ||| How often do you travel? ||| 你多久旅行一次？
-Reversed ||| I try to travel twice a year. ||| 我尽量每年旅行两次。
+Basic ||| 你通常几点起床？ ||| What time do you usually get up?
+Basic ||| 我通常早上6点起床。 ||| I usually get up at 6:00 a.m.
+Basic ||| 你如何开始你的一天？ ||| How do you start your day?
+Basic ||| 我以一杯咖啡开始我的一天。 ||| I start my day with a cup of coffee.
+Basic ||| 你每天都喝咖啡吗？ ||| Do you drink coffee every day?
+Basic ||| 是的，我每天早上都喝咖啡。 ||| Yes, I drink coffee every morning.
+Basic ||| 你早饭吃什么？ ||| What do you have for breakfast?
+Basic ||| 我早饭通常吃吐司和鸡蛋。 ||| I usually have toast and eggs for breakfast.
+Basic ||| 你早上锻炼吗？ ||| Do you exercise in the morning?
+Basic ||| 是的，我每天早上慢跑。 ||| Yes, I go for a jog every morning.
+Basic ||| 你怎么去上班？ ||| How do you get to work?
+Basic ||| 我乘公交车去上班。 ||| I take the bus to work.
+Basic ||| 你过去怎么上学？ ||| How did you commute to school?
+Basic ||| 我骑自行车。 ||| I rode my bike.
+Basic ||| 花了多长时间？ ||| How long did it take?
+Basic ||| 通常花我大约半小时。 ||| It usually took me around half an hour.
+Basic ||| 你几点出发去上班？ ||| What time do you leave for work?
+Basic ||| 我早上7点50分出发去上班。 ||| I leave for work at 7:50 a.m.
+Basic ||| 你通勤路上怎么打发时间？ ||| How do you spend your commute?
+Basic ||| 我通常听有声读物。 ||| I usually listen to audiobooks.
+Basic ||| 你几点开始工作？ ||| What time do you start work?
+Basic ||| 我早上9点开始工作。 ||| I start work at 9:00 a.m.
+Basic ||| 你工作时听音乐吗？ ||| Do you listen to music while working?
+Basic ||| 是的，我发现它有助于我集中注意力。 ||| Yes, I find it helps me concentrate.
+Basic ||| 你午休时做什么？ ||| What do you do during your lunch break?
+Basic ||| 我通常在附近的一家咖啡馆吃午饭。 ||| I usually have lunch at a nearby cafe.
+Basic ||| 你的午休时间有多长？ ||| How long is your lunch break?
+Basic ||| 我的午休时间是1小时。 ||| My lunch break is 1 hour long.
+Basic ||| 你带午饭去上班吗？ ||| Do you bring lunch to work?
+Basic ||| 是的，我通常带盒饭。 ||| Yes, I usually bring a packed lunch.
+Basic ||| 你白天会有咖啡休息时间吗？ ||| Do you take any coffee breaks during the day?
+Basic ||| 是的，我在下午会有个咖啡休息时间。 ||| Yes, I take a coffee break in the afternoon.
+Basic ||| 你更喜欢茶还是咖啡？ ||| Do you prefer tea or coffee?
+Basic ||| 我下午更喜欢茶。 ||| I prefer tea in the afternoon.
+Basic ||| 你几点下班？ ||| What time do you finish work?
+Basic ||| 我下午5点下班。 ||| I finish work at 5:00 p.m.
+Basic ||| 你下班后做什么？ ||| What do you do after work?
+Basic ||| 我下班后去健身房。 ||| I go to the gym after work.
+Basic ||| 你多久去一次健身房？ ||| How often do you go to the gym?
+Basic ||| 我每周去三次健身房。 ||| I go to the gym three times a week.
+Basic ||| 你做运动吗？ ||| Do you play any sports?
+Basic ||| 是的，我打网球。 ||| Yes, I play tennis.
+Basic ||| 你做晚饭吗？ ||| Do you cook dinner?
+Basic ||| 是的，我通常为家人做晚饭。 ||| Yes, I usually cook dinner for my family.
+Basic ||| 你喜欢做饭吗？ ||| Do you like to cook?
+Basic ||| 是的，我喜欢尝试新食谱做饭。 ||| Yes, I enjoy cooking new recipes.
+Basic ||| 你通常几点吃晚饭？ ||| What time do you usually have dinner?
+Basic ||| 我通常在晚上7点30分左右吃晚饭。 ||| I usually have dinner around 7:30 p.m.
+Basic ||| 你晚饭通常吃什么？ ||| What do you usually have for dinner?
+Basic ||| 我通常吃一顿清淡的晚餐，比如沙拉或汤。 ||| I usually have a light dinner like salad or soup.
+Basic ||| 你喜欢在外面吃饭吗？ ||| Do you like to eat out?
+Basic ||| 是的，我喜欢尝试新的餐厅。 ||| Yes, I enjoy trying new restaurants.
+Basic ||| 你晚上看电视吗？ ||| Do you watch TV in the evening?
+Basic ||| 是的，我看大约一小时电视。 ||| Yes, I watch TV for about an hour.
+Basic ||| 你辅导孩子做作业吗？ ||| Do you help your kids with homework?
+Basic ||| 是的，我每天晚上都辅导他们做作业。 ||| Yes, I help them with their homework every evening.
+Basic ||| 你晚上如何放松？ ||| How do you unwind in the evening?
+Basic ||| 我喜欢做一些轻度的拉伸或瑜伽。 ||| I like to do some light stretching or yoga.
+Basic ||| 漫长的一天后你如何放松？ ||| How do you relax after a long day?
+Basic ||| 我通过阅读或听音乐来放松。 ||| I relax by reading or listening to music.
+Basic ||| 你睡前阅读吗？ ||| Do you read before going to bed?
+Basic ||| 是的，我喜欢在睡前看书。 ||| Yes, I like to read a book before sleeping.
+Basic ||| 你几点上床睡觉？ ||| What time do you go to bed?
+Basic ||| 我晚上10点左右上床睡觉。 ||| I go to bed around 10 p.m.
+Basic ||| 你冥想吗？ ||| Do you meditate?
+Basic ||| 是的，我定期冥想。 ||| Yes, I meditate regularly.
+Basic ||| 你睡前如何放松？ ||| How do you relax before going to bed?
+Basic ||| 我听舒缓的音乐。 ||| I listen to calm music.
+Basic ||| 你会定早上的闹钟吗？ ||| Do you set an alarm for the morning?
+Basic ||| 是的，我定了一个早上6点30分的闹钟。 ||| Yes, I set an alarm for 6:30 a.m.
+Basic ||| 你睡多少个小时？ ||| How many hours of sleep do you get?
+Basic ||| 我睡大约7个小时。 ||| I get about 7 hours of sleep.
+Basic ||| 如果你睡不着会怎么做？ ||| What do you do if you can't sleep?
+Basic ||| 如果我睡不着，有时我会吃安眠药。 ||| If I can't sleep I sometimes take a sleeping pill.
+Basic ||| 你喜欢淋浴还是泡澡？ ||| Do you prefer showers or baths?
+Basic ||| 我喜欢淋浴。 ||| I prefer showers.
+Basic ||| 你多久洗一次衣服？ ||| How often do you do laundry?
+Basic ||| 我一周洗两次衣服。 ||| I do laundry twice a week.
+Basic ||| 你自己做饭吗？ ||| Do you cook your own meals?
+Basic ||| 是的，我喜欢自己做饭。 ||| Yes, I enjoy cooking my own meals.
+Basic ||| 你每天都打扫房子吗？ ||| Do you clean your house every day?
+Basic ||| 不，我一周打扫一次房子。 ||| No, I clean my house once a week.
+Basic ||| 你多久去一次杂货店购物？ ||| How often do you go grocery shopping?
+Basic ||| 我每周去一次杂货店购物。 ||| I go grocery shopping once a week.
+Basic ||| 你多久换一次床单？ ||| How often do you change your bed sheets?
+Basic ||| 我每周换一次床单。 ||| I change my bed sheets once a week.
+Basic ||| 你熨衣服吗？ ||| Do you iron your clothes?
+Basic ||| 是的，我穿衣服前会熨一下。 ||| Yes, I iron my clothes before wearing them.
+Basic ||| 你多久用吸尘器打扫一次房子？ ||| How often do you vacuum your house?
+Basic ||| 我每周用吸尘器打扫两次房子。 ||| I vacuum my house twice a week.
+Basic ||| 你回收垃圾吗？ ||| Do you recycle?
+Basic ||| 是的，我总是把可回收物分开。 ||| Yes, I always separate my recyclables.
+Basic ||| 你如何度过周末？ ||| How do you spend your weekends?
+Basic ||| 我周末去徒步或拜访朋友。 ||| I spend my weekends hiking or visiting friends.
+Basic ||| 你每天都去散步吗？ ||| Do you go for a walk every day?
+Basic ||| 是的，我晚上去散步。 ||| Yes, I go for a walk in the evening.
+Basic ||| 你有宠物吗？ ||| Do you have any pets?
+Basic ||| 是的，我养了一只狗。 ||| Yes, I have a dog.
+Basic ||| 你带你的狗去散步吗？ ||| Do you take your dog for a walk?
+Basic ||| 是的，我每天带我的狗散步两次。 ||| Yes, I take my dog for a walk twice a day.
+Basic ||| 你多久看望一次家人？ ||| How often do you visit your family?
+Basic ||| 我每个周末都去看望家人。 ||| I visit my family every weekend.
+Basic ||| 你喜欢园艺吗？ ||| Do you like gardening?
+Basic ||| 是的，我喜欢在周末做园艺。 ||| Yes, I enjoy gardening on weekends.
+Basic ||| 你有爱好吗？ ||| Do you have a hobby?
+Basic ||| 是的，我喜欢画画。 ||| Yes, I like painting.
+Basic ||| 你家里有植物吗？ ||| Do you have any plants at home?
+Basic ||| 是的，我有几盆室内植物。 ||| Yes, I have several house plants.
+Basic ||| 你多久给植物浇一次水？ ||| How often do you water your plants?
+Basic ||| 我每隔一天给植物浇一次水。 ||| I water my plants every other day.
+Basic ||| 你使用公共交通工具吗？ ||| Do you use public transportation?
+Basic ||| 不经常，我通常开车。 ||| Not often, I usually drive.
+Basic ||| 你多久和朋友见一次面？ ||| How often do you meet with friends?
+Basic ||| 一个月几次。 ||| Several times a month.
+Basic ||| 你使用社交媒体吗？ ||| Do you use social media?
+Basic ||| 是的，我每天查看我的社交媒体。 ||| Yes, I check my social media daily.
+Basic ||| 你通常如何度过假期？ ||| How do you usually spend your holidays?
+Basic ||| 我和家人朋友一起度过假期。 ||| I spend my holidays with family and friends.
+Basic ||| 你多久旅行一次？ ||| How often do you travel?
+Basic ||| 我尽量每年旅行两次。 ||| I try to travel twice a year.

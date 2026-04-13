@@ -54,7 +54,7 @@ cloze_model = genanki.Model(
 
 # 2. 创建记忆库 (Deck)
 DECK_ID = 2059400110
-my_deck = genanki.Deck(DECK_ID, '我的技术与英语词库')
+my_deck = genanki.Deck(DECK_ID, '英语口语')
 
 # 3. 解析 TXT 文件
 def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
@@ -123,4 +123,4 @@ def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
             os.remove(error_filename)
 
 if __name__ == '__main__':
-    generate_deck_from_txt('my_notes.txt', 'error_lines.txt')
+    generate_deck_from_txt('./english_spoken.txt', 'error_lines.txt')

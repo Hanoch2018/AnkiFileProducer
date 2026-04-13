@@ -1,0 +1,7 @@
+Reversed ||| curated ||| 精心挑选的；策划的；精心汇总的 ||| 备注：用法：常指对大量信息、数据或资源进行专业筛选和整理。例句：The team provided a curated dataset for the AI model training. (团队为 AI 模型训练提供了一组精心挑选的数据集。)
+
+Reversed ||| practical ||| 实用的；实际的；操作性强的 ||| 备注：用法：常用来形容经验、方法或解决方案，强调能在实际工作中落地。例句：She has 5 years of practical experience in Wi-Fi automation testing. (她在 Wi-Fi 自动化测试方面有5年的实际操作经验。)
+
+Reversed ||| Upon completion ||| 完成后；一经结束 ||| 备注：用法：非常正式的职场书面用语，通常后面接名词，引出完成某事后的下一步动作。例句：Upon completion of the test script, please upload it to the Git repository. (测试脚本编写完成后，请将其上传至 Git 仓库。)
+
+Reversed ||| cutting-edge ||| 尖端的；最前沿的；领先的 ||| 备注：用法：通常修饰技术 (technology)、研究或设备，表示处于行业最高水平。例句：Our new lab is equipped with cutting-edge 802.11ax testing instruments. (我们的新实验室配备了最前沿的 Wi-Fi 6 测试仪器。)

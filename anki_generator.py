@@ -52,12 +52,18 @@ cloze_model = genanki.Model(
     css='.cloze {font-weight: bold; color: blue;}'
 )
 
-# 2. 创建记忆库 (Deck)
+# 2. 定义记忆库 ID
 DECK_ID = 2059400110
-my_deck = genanki.Deck(DECK_ID, '英语口语')
 
 # 3. 解析 TXT 文件
 def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
+    # 从输入文件名生成卡组名称（去掉扩展名）
+    base_name = os.path.splitext(os.path.basename(txt_filename))[0]
+    deck_name = base_name
+    output_filename = f"{base_name}.apkg"
+    
+    # 创建新的记忆库（避免全局复用导致重复累积）
+    my_deck = genanki.Deck(DECK_ID, deck_name)
     if not os.path.exists(txt_filename):
         print(f"错误: 找不到文件 {txt_filename}")
         return
@@ -95,9 +101,10 @@ def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
                     my_deck.add_note(note)
                 
                 elif card_type == 'cloze':
-                    # Cloze 模型只有两个字段：Text 和 Remark。我们将 field2 和 remark 合并显示，或者直接用 field2 作为备注
-                    # 为了兼容之前的习惯，在填空题里，field2 直接作为 remark 字段传入
-                    note = genanki.Note(model=cloze_model, fields=[field1, field2])
+                    # Cloze 模型只有两个字段：Text 和 Remark
+                    # field1 -> Text, field2 和 remark 合并作为 Remark
+                    cloze_remark = f"{field2} {remark}".strip() if field2 or remark else ""
+                    note = genanki.Note(model=cloze_model, fields=[field1, cloze_remark])
                     my_deck.add_note(note)
                 
                 else:
@@ -105,17 +112,18 @@ def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
                     error_lines.append(original_line)
 
             except Exception as e:
-                 print(f"处理第 {line_num} 行时发生异常: {e}，已记录。")
-                 error_lines.append(original_line)
+                error_info = f"[行 {line_num}] {e}: {original_line.rstrip()}"
+                print(f"处理第 {line_num} 行时发生异常: {e}，已记录。")
+                error_lines.append(error_info)
 
     # 4. 导出
-    output_filename = 'Tech_English_Notes.apkg'
     genanki.Package(my_deck).write_to_file(output_filename)
     print(f"\n成功! 卡片包已导出为: {output_filename}")
 
     # 5. 错误处理
     if error_lines:
         with open(error_filename, 'w', encoding='utf-8') as ef:
+            ef.write(f"# 共发现 {len(error_lines)} 行错误数据\n\n")
             ef.writelines(error_lines)
         print(f"⚠️ 注意: 发现了 {len(error_lines)} 行错误数据！已保存至 {error_filename}。")
     else:

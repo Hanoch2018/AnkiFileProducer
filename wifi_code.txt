@@ -1,0 +1,14 @@
+Basic ||| BES2610 WiFi 驱动扫描（Driver Scan flow）中，Driver 与 FMAC 交互的三个核心信令按顺序是什么？ ||| 1. SCANU_START_REQ (请求开始) 2. SCANU_RESULT_IND (异步上报结果)3. SCANU_START_CFM (扫描完成确认) ||| 备注：对应 Slide 4 的 Sequence Diagram 流程。
+Basic ||| 在 BES2610 WiFi 扫描流程中，扫描结果（SCAN results）是在什么时候发给 Driver 的？ ||| 在扫描过程中（During the procedure）实时转发，而不是等扫描全部结束后一次性发送。 ||| 备注：由多个 SCANU_RESULT_IND 信令承载。
+Basic ||| 在 WiFi 协议栈开发中，信令后缀 _REQ、_IND、_CFM 分别代表什么？ ||| 1. REQ (Request): 发起请求；
+2. IND (Indication): 异步指示/上报；
+3. CFM (Confirm): 最终确认。 ||| 备注：这是通信协议栈中标准的交互命名规范。
+Basic ||| BES2610 扫描流程中，哪个信令是由 Driver 发起的？ ||| SCANU_START_REQ ||| 备注：其余的 IND 和 CFM 均由 FMAC（固件）侧发给 Driver。
+
+Basic ||| BES2610 Driver Connect Flow 中，发起连接请求的信令名称是什么？ ||| SM_CONNECT_REQ ||| 备注：由 Driver 发向 FMAC，开启连接流程。
+
+Basic ||| 在连接流程中，FMAC 返回哪个信令来确认驱动的连接请求？ ||| SM_CONNECT_CFM(OK) ||| 备注：对应 Slide 中的“The connection procedure is requested by the Driver”阶段。
+
+Basic ||| 哪个信令标志着 STA 正式进入 “Associated”（已关联）状态？ ||| SM_CONNECT_IND ||| 备注：这是由 FMAC 异步发出的指示信令（Indication）。
+
+Basic ||| 请按顺序排列 Driver Connect Flow 的三个核心信令。 ||| 1. SM_CONNECT_REQ (Driver -> FMAC) 2. SM_CONNECT_CFM(OK) (FMAC -> Driver) 3. SM_CONNECT_IND (FMAC -> Driver) ||| 备注：Req 代表请求，Cfm 代表确认，Ind 代表状态指示。

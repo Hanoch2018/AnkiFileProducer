@@ -131,4 +131,4 @@ def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
             os.remove(error_filename)
 
 if __name__ == '__main__':
-    generate_deck_from_txt('./english_spoken.txt', 'error_lines.txt')
+    generate_deck_from_txt('./wifi_spec.txt', 'error_lines.txt')

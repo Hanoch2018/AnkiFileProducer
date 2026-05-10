@@ -61,7 +61,7 @@ def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
     base_name = os.path.splitext(os.path.basename(txt_filename))[0]
     deck_name = base_name
     output_filename = f"{base_name}.apkg"
-    
+    print(f"input file name:{txt_filename}, output_file:{output_filename}")
     # 创建新的记忆库（避免全局复用导致重复累积）
     my_deck = genanki.Deck(DECK_ID, deck_name)
     if not os.path.exists(txt_filename):
@@ -131,4 +131,4 @@ def generate_deck_from_txt(txt_filename, error_filename='error_lines.txt'):
             os.remove(error_filename)
 
 if __name__ == '__main__':
-    generate_deck_from_txt('./wifi_spec.txt', 'error_lines.txt')
+    generate_deck_from_txt('./shanbei_speaking_english.txt', 'error_lines.txt')

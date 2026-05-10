@@ -1,0 +1,434 @@
+# N种方法说感谢
+Reversed ||| Thanks for helping me with my homework. ||| 感谢你帮我做作业。
+Reversed ||| I thank you from the bottom of my heart. ||| 我发自内心感谢你。 ||| 例句：I thank you from the bottom of my heart for finding that critical bug before release.
+Reversed ||| You don't know how much I appreciate that. ||| 你不知道我有多感激你。
+Reversed ||| What you've done means a lot to me. ||| 你真是帮了我个大忙。
+Reversed ||| Thank you for all the support and concern. ||| 感谢你的支持与关心。
+Reversed ||| It's so thoughtful of you. ||| 你考虑得太周到了。
+Reversed ||| Thank you for being there for me. ||| 感谢你一直愿意帮我。
+Reversed ||| It doesn't matter. Thanks all the same. ||| 没关系，还是要谢谢你。
+Reversed ||| You've been very helpful. ||| 你帮我大忙了。
+Reversed ||| Thanks. ||| 谢谢。
+Reversed ||| I owe you one. ||| 我欠你个人情。 ||| 例句：Thanks for restarting the server for me, I owe you one.
+Reversed ||| Thanks a million. ||| 非常感谢。
+Reversed ||| Thank you so much. ||| 太谢谢你了。
+Reversed ||| I'm grateful. ||| 我很感激。
+Reversed ||| Appreciate that. ||| 多谢。
+Reversed ||| That's very kind of you. ||| 你太好了。
+
+# 下次再见
+Reversed ||| Good-bye! ||| 再见！
+Reversed ||| So long! ||| 再见！
+Reversed ||| Later. ||| 回见！
+Reversed ||| Catch you later. ||| 一会儿见！
+Reversed ||| See you around. ||| 回头见。
+Reversed ||| See you soon. ||| 待会儿见。
+Reversed ||| Keep in touch. ||| 保持联系。
+
+# 不可辜负的美食
+Reversed ||| That slice of chocolate cake looks delicious. ||| 那块巧克力蛋糕看起来很美味。
+Reversed ||| The pasta in this restaurant is really yummy. ||| 这家餐厅的意大利面非常好吃。
+Reversed ||| The pizza with extra cheese tastes good. ||| 多加芝士的披萨味道很好。
+Reversed ||| Seafood is always appetizing. ||| 海鲜总是美味又可口。
+Reversed ||| This hot and spicy soup is super good! ||| 这个热辣汤味道好极了！
+Reversed ||| Wow, that dish looks so mouth-watering. ||| 哇哦，这个菜看起来就让人流口水。
+Reversed ||| Nothing compares to a bowl of potato and beef noodles. ||| 没有什么比得上一碗土豆牛肉面。
+Reversed ||| The steak is finger-licking good! ||| 这牛排好吃得让人吮指回味。
+Reversed ||| We had fried eggs and bacon for breakfast. ||| 我们早餐吃了煎蛋和培根。
+Reversed ||| The flavor of this moon cake is amazing! ||| 这个月饼的味道太棒了！
+Reversed ||| Wow, the salad is delicious! ||| 哇，这沙拉真好吃！
+Reversed ||| It's really tasty. ||| 这个味道真好！
+Reversed ||| The apple is sweet. ||| 这苹果很甜。
+Reversed ||| I really enjoy the cake. ||| 我真的很喜欢吃这个蛋糕。
+Reversed ||| The orange is juicy. ||| 这个橘子很多汁。
+Reversed ||| Amazing food, right? ||| 这食物很棒，是吧？
+Reversed ||| It looks really yummy. ||| 这看起来很好吃。
+
+# 买买买
+Reversed ||| No, thanks. I'm just looking. ||| 不用了，谢谢。我只是看看。
+Reversed ||| How much does this book cost? ||| 这本书多少钱？
+Reversed ||| Could you show me some shirts, please? ||| 您能给我看下衬衫吗？
+Reversed ||| I'm looking for a present for my brother. ||| 我在给我弟弟挑礼物。
+Reversed ||| Oh, this skirt fits me so well. ||| 噢，这条裙子太适合我了。
+Reversed ||| Do you offer any discount? ||| 你能打个折吗？
+Reversed ||| Do you take credit cards? ||| 你们这儿能刷信用卡吗？
+Reversed ||| I'm afraid this shirt is too small for me. ||| 恐怕这件衬衫对我来说太小了。
+Reversed ||| I'd like the same style in a larger size. ||| 我想要同一款更大一号的。
+Reversed ||| Oh, that's a good bargain. ||| 噢，这真的很划算。
+Reversed ||| How much is it? ||| 这个多少钱？
+Reversed ||| Can I try it on? ||| 我能试穿吗？
+Reversed ||| I'd like to buy a bag. ||| 我想买个包。
+Reversed ||| Great, I'll take it. ||| 不错，我就买这个。
+Reversed ||| Can I pay in cash? ||| 我能付现金吗？
+Reversed ||| Where is the changing room? ||| 更衣室在哪里？
+Reversed ||| Where's the checkout, please? ||| 请问收银台在哪里？ ||| 例句：After running the automated tests, we can push the code to checkout. (IT引申：代码签出)
+
+# 享受节假日
+Reversed ||| Shall we go sightseeing on vacation? ||| 我们假期去旅游吧？
+Reversed ||| Who do you want to spend the holiday with? ||| 你假期想和谁一起过？
+Reversed ||| It's fun to visit historical places while on vacation. ||| 度假时去参观历史古迹很有趣。
+Reversed ||| I just want to relax on the beach. ||| 我只想在沙滩上放松放松。
+Reversed ||| How do you celebrate Christmas Day? ||| 你怎么庆祝圣诞节？
+Reversed ||| We had a very happy Thanksgiving. ||| 我们度过了一个非常愉快的感恩节。
+Reversed ||| People like to exchange gifts at Christmas. ||| 人们喜欢在圣诞节交换礼物。
+Reversed ||| Are you going to travel this summer holiday? ||| 这个暑假你打算去旅游吗？
+Reversed ||| What did you do during spring break? ||| 你春假是怎么过的？
+Reversed ||| The Spring Festival is very important to the Chinese people. ||| 春节对中国人来说很重要。
+Reversed ||| Kids always like festivals. ||| 孩子总是喜欢过节。
+Reversed ||| She is on vacation. ||| 她正在度假。
+Reversed ||| I want to take a vacation. ||| 我想去度假。
+Reversed ||| I had an exciting holiday. ||| 我的假期很令人兴奋。
+Reversed ||| Winter vacation is really short. ||| 寒假真的很短。
+Reversed ||| The summer vacation is coming! ||| 暑假就要来了！
+Reversed ||| I'll go home for the holiday. ||| 我放假了要回家。
+
+# 兴趣是最好的老师
+Reversed ||| How do you spend your free time? ||| 你怎么度过闲暇时光？
+Reversed ||| What do you do in your spare time? ||| 你在业余时间干什么？ ||| 例句：What do you do in your spare time? I contribute to open-source Python projects.
+Reversed ||| How do you entertain yourself after work? ||| 你下班后都如何消遣的？
+Reversed ||| Do you have special interest other than your job? ||| 除了工作之外，你有什么特别的爱好吗？
+Reversed ||| I find joy in skating. ||| 我觉得滑冰很有趣。
+Reversed ||| My favorite hobby is playing the guitar. ||| 我最大的爱好是弹吉他。
+Reversed ||| I have a particular interest in painting. ||| 我对画画特别感兴趣。
+Reversed ||| I'm crazy about collecting stamps. ||| 我对集邮很痴迷。
+Reversed ||| Movies and music are my two greatest interests in life. ||| 电影和音乐是我人生中两大爱好。
+Reversed ||| I read whenever I have the chance. ||| 我一有机会就会看书。
+Reversed ||| Do you have any hobbies? ||| 你有什么爱好吗？
+Reversed ||| What are your interests? ||| 你的爱好是什么？
+Reversed ||| I have many interests. ||| 我有很多兴趣爱好。
+Reversed ||| She likes painting. ||| 她喜欢绘画。
+Reversed ||| I enjoy reading very much. ||| 我非常喜欢读书。
+Reversed ||| He is interested in music. ||| 他对音乐很感兴趣。
+Reversed ||| I often play basketball on weekends. ||| 我经常在周末打篮球。
+
+# 初来乍到
+Reversed ||| I'm glad to meet you. ||| 很高兴认识你。
+Reversed ||| It's a pleasure to meet you. ||| 很高兴认识你。
+Reversed ||| Could you please tell me your name? ||| 请问你叫什么名字？
+Reversed ||| May I know your name, please? ||| 请问你叫什么名字？
+Reversed ||| Please allow me to introduce myself. ||| 请允许我介绍下自己。
+Reversed ||| Do you know the tall guy over there? ||| 你认识那边的高个子小伙儿吗？
+Reversed ||| Have you met my colleague Calvin? ||| 你见过我的同事加尔文吗？
+Reversed ||| I'd like to introduce my roommate to you. ||| 我想给你介绍一下我的室友。
+Reversed ||| This is John, a friend of mine. ||| 这是约翰，我的一个朋友。
+
+# 友谊万岁
+Reversed ||| Are you still in touch now? ||| 你们现在还有联系吗？
+Reversed ||| Jenny was my best friend in high school. ||| 杰尼是我高中最好的朋友。
+Reversed ||| We've remained close since then. ||| 我们自那时起就很要好。
+Reversed ||| We always did homework together. ||| 我们总是一起写作业。
+Reversed ||| We help each other with difficult problems. ||| 我们帮助对方解决难题。
+Reversed ||| We support each other through good and bad times. ||| 不管是好是坏，我们都互相支持。
+Reversed ||| During holidays, we often travel together. ||| 放假我们经常结伴旅行。
+Reversed ||| I hope we'll be best friends forever. ||| 我希望我们永远是最好的朋友。
+Reversed ||| I have many friends. ||| 我有很多朋友。
+Reversed ||| Who is your best friend? ||| 你最好的朋友是谁？
+Reversed ||| My best friend is Ruby. ||| 我最好的朋友是鲁比。
+Reversed ||| They are good friends. ||| 他们是好朋友。
+Reversed ||| I enjoy hanging out with my friends. ||| 我喜欢跟我的朋友一起出去玩。
+Reversed ||| My friend is always there for me. ||| 我的朋友总伴我左右。
+Reversed ||| Long live our friendship! ||| 愿我们的友谊地久天长！
+
+# 回应感谢
+Reversed ||| Think nothing of it. ||| 不必在意。
+Reversed ||| I'm glad I could help. ||| 我很高兴能帮上忙。
+Reversed ||| It's no bother. ||| 一点儿也不麻烦。
+Reversed ||| No trouble at all. ||| 一点儿也不麻烦。
+Reversed ||| It's a piece of cake. ||| 小菜一碟。 ||| 例句：Automating this test script is a piece of cake.
+Reversed ||| Oh, it was nothing. We've all had difficult times. ||| 哦，没什么好谢的，大家都有需要帮忙的时候。
+Reversed ||| Don't mention it. It's my pleasure. ||| 别客气，很乐意帮你。
+Reversed ||| It's OK. ||| 不谢。
+Reversed ||| Forget it. ||| 不用谢。
+Reversed ||| Of course. ||| 不必客气。
+Reversed ||| It's all right. ||| 没什么的。
+Reversed ||| My pleasure. ||| 不客气。
+Reversed ||| Not at all. ||| 别客气。
+Reversed ||| You're welcome. ||| 不用谢。
+
+# 回应邀请
+Reversed ||| What a great idea, thank you! ||| 真是个好主意，谢谢！
+Reversed ||| That's very kind of you, thanks. ||| 你真是太好了，谢谢！
+Reversed ||| Sure. When should I be there? ||| 当然了。我应该什么时候到那里？
+Reversed ||| Of course, thanks for inviting me. ||| 当然去，感谢邀请。
+Reversed ||| Sorry, I have an appointment. ||| 抱歉，我有约了。
+Reversed ||| I'm afraid I can't go with you. ||| 恐怕我不能和你一起去了。
+Reversed ||| Can I take a rain check? ||| 能改个时间吗？ ||| 例句：I'm debugging the Wi-Fi authentication right now, can I take a rain check?
+Reversed ||| I'm terribly sorry, but I've got something else going on. ||| 十分抱歉，我还有别的事要做。
+Reversed ||| I would love to, but I have to check my schedule first. ||| 我很想去，但我得先看一下我的日程安排。
+Reversed ||| Can I get back to you tomorrow? ||| 我能明天再答复你吗？
+Reversed ||| Sure, what time? ||| 当然，什么时候？
+Reversed ||| I'd love to, thanks. ||| 我很乐意，谢谢。
+Reversed ||| Sounds great, thank you. ||| 听起来不错，谢谢你。
+Reversed ||| That's a great idea. ||| 这个主意不错。
+Reversed ||| Sorry, maybe next time. ||| 不好意思，也许下次吧。
+Reversed ||| Sorry, I'm busy this weekend. ||| 不好意思，我周末很忙。
+Reversed ||| I'd like to, but I have to study. ||| 我很想去，但是我得学习。
+
+# 寒暄几句
+Reversed ||| It was nice seeing you. ||| 很高兴见到你。
+Reversed ||| It's great to see you again. ||| 很开心再次见到你。
+Reversed ||| How was your weekend, Lily? ||| 莉莉，周末过得怎么样？
+Reversed ||| I haven't seen you in a long time. ||| 我好久没见到你了。
+Reversed ||| It's been a long time since we last met. ||| 我们上次见面都是好久以前的事了。
+Reversed ||| What have you been up to? ||| 你最近忙什么呢？
+Reversed ||| Hey, how have you been? ||| 嘿，最近怎么样？
+Reversed ||| Have you ever been there? ||| 你曾经去过那儿吗？
+Reversed ||| How long have you been here? ||| 你来这儿多长时间了？
+
+# 恋爱ing
+Reversed ||| Are you seeing somebody? ||| 你在和谁交往吗？
+Reversed ||| I have a crush on her. ||| 我迷恋上她了。
+Reversed ||| I fell in love with her at first sight. ||| 我对她一见钟情。
+Reversed ||| I broke up with my girlfriend last summer. ||| 去年夏天我和我女朋友分手了。
+Reversed ||| He never cheats on his girlfriend. ||| 他从没背叛他的女朋友。
+Reversed ||| It looks you two are going steady. ||| 看上去你们俩关系发展得不错。
+Reversed ||| My girlfriend and I have been romancing for years. ||| 我和我女朋友已经恋爱多年了。
+Reversed ||| I have an unrequited love for her. ||| 我暗恋她。
+Reversed ||| I'm trying to get a date with her. ||| 我在努力约她。
+Reversed ||| They are a match made in heaven. ||| 他们真是天生一对。
+Reversed ||| I love Mary. ||| 我爱玛丽。
+Reversed ||| I find her very attractive. ||| 我发现她很有魅力。
+Reversed ||| Did you ask her out? ||| 你约她了吗？
+Reversed ||| I'm crazy about her. ||| 我迷恋她。
+Reversed ||| You're my type. ||| 你是我喜欢的类型。
+Reversed ||| She broke my heart. ||| 她伤了我的心。
+Reversed ||| I'm done with you. ||| 我和你之间结束了。
+Reversed ||| We are finished. ||| 我们的关系玩儿完了。
+
+# 我和宠物的日常
+Reversed ||| Dad gave me a little puppy as a Christmas present. ||| 爸爸送了我一条小狗当作圣诞礼物。
+Reversed ||| I just couldn't take my eyes off the cute little thing! ||| 我的双眼都离不开这可爱的小东西！
+Reversed ||| Dogs can't eat chocolate. They can die from it. ||| 狗不能吃巧克力，巧克力可能会让小狗死亡。
+Reversed ||| The puppy enjoys fetching the ball in the yard. ||| 小狗很爱在院子里玩接球。
+Reversed ||| The cat gave birth to three little kittens. ||| 这只猫生了三只小猫。
+Reversed ||| Dogs are more loyal than cats. ||| 狗比猫更忠诚。
+Reversed ||| I really don't know how to take care of a fish! ||| 我真不知道怎么去照料鱼！
+Reversed ||| What animal would you like as a pet? ||| 你想养什么动物来当宠物？
+Reversed ||| My pet is a rabbit. ||| 我的宠物是一只兔子。
+Reversed ||| My dog is sick. ||| 我的狗狗生病了。
+Reversed ||| My cat likes fish best. ||| 我的猫最喜欢吃鱼。
+Reversed ||| A pet is also a friend. ||| 宠物也是朋友。
+Reversed ||| I want to have a pet. ||| 我想养只宠物。
+Reversed ||| I walk the dog every day. ||| 我每天都遛狗。
+Reversed ||| Bones are the dog's favorite food. ||| 骨头是狗狗最喜欢吃的食物。
+
+# 我来邀请你
+Reversed ||| Do you have any plans tonight? ||| 你今晚有什么计划吗？
+Reversed ||| I'd like to invite you to our party tonight. ||| 我想邀请你来参加我们今晚的聚会。
+Reversed ||| Would you like to come along? ||| 你要不要一起来？
+Reversed ||| Would you like to go on a picnic this Sunday? ||| 你这个星期天想不想去野餐？
+Reversed ||| How about going to the museum with me? ||| 跟我一起去博物馆怎么样？
+Reversed ||| Why don't you go shopping with us tomorrow? ||| 要不要明天跟我们一起去逛街？
+Reversed ||| Do you feel like going to the park? ||| 你想去公园逛逛吗？
+Reversed ||| Care to come over for lunch? ||| 要不要过来吃个午饭？
+Reversed ||| I hope you'll be able to join me for dinner. ||| 我希望你能跟我一起去吃晚餐。
+Reversed ||| Are you free tonight? ||| 你今晚有空吗？
+Reversed ||| Are you busy this Saturday? ||| 你这个周六忙吗？
+Reversed ||| Do you want to join me? ||| 你想跟我一起吗？
+Reversed ||| Susan, got time after school? ||| 苏珊，放学后有时间吗？
+Reversed ||| I hope you can come. ||| 我希望你能来。
+Reversed ||| Let's go swimming this weekend. ||| 我们周末去游泳吧。
+Reversed ||| We're going to the pub. Wanna come? ||| 我们准备去酒吧。要一起吗？
+
+# 指路
+Reversed ||| Go straight until you see the subway station. ||| 直走直到你看到地铁站。
+Reversed ||| Cross the intersection and keep going for about five minutes. ||| 穿过十字路口，一直走五分钟。
+Reversed ||| The hospital is opposite the supermarket. ||| 医院在超市对面。
+Reversed ||| You'll see a restaurant at the end of the street. ||| 在街的尽头你会看到一家餐馆。
+Reversed ||| Make a right turn at the post office. ||| 在邮局那儿右转。
+Reversed ||| Go down this street and turn right at the supermarket. ||| 沿着这条路一直走，在超市处右转。
+Reversed ||| You need the bus going to the opposite direction. ||| 你得乘反方向的公交。
+Reversed ||| The bus stop will be near a bank on your left. ||| 公交站在你左手边的银行附近。
+Reversed ||| It'll take ten minutes to go to the nearest restaurant. ||| 去最近的餐馆得花十分钟。
+Reversed ||| Go straight. ||| 直走。
+Reversed ||| First, turn right. ||| 首先，右转。
+Reversed ||| It's around the corner. ||| 在拐角处。
+Reversed ||| It's at the end of this road. ||| 它在这条路尽头。
+Reversed ||| It's next to the bus station. ||| 它靠近公交站。
+Reversed ||| You'll see a red building. ||| 你会看到一个红色建筑。
+Reversed ||| You can follow the road signs. ||| 你可以跟着路标走。
+Reversed ||| Turn left at the first traffic light. ||| 在第一个红绿灯处左拐。
+
+# 接受道歉
+Reversed ||| I quite understand. ||| 我十分理解。
+Reversed ||| You couldn't help it. ||| 你也不是有意的。
+Reversed ||| No harm done. ||| 没什么。
+Reversed ||| That's not a big deal. ||| 这没什么大不了的。
+Reversed ||| Please don't blame yourself. ||| 别责怪自己了。
+Reversed ||| It's really not necessary. ||| 实在没有必要道歉。
+Reversed ||| It could have happened to anyone. ||| 这种情况大家都可能碰到。 ||| 例句：A 500 server error could have happened to anyone's code.
+Reversed ||| Don't mention it. It's not your fault. ||| 没关系，这不是你的错。
+Reversed ||| Forget about it. ||| 别放心上了。
+Reversed ||| Never mind. ||| 没关系。
+Reversed ||| Forget it. ||| 不必在意。
+Reversed ||| That's OK. ||| 不要紧。
+Reversed ||| I forgive you. ||| 我原谅你。
+Reversed ||| It doesn't matter. ||| 没关系。
+Reversed ||| Don't apologize. ||| 不必道歉。
+Reversed ||| Don't worry about it. ||| 别放在心上。
+
+# 敢问路在何方
+Reversed ||| Can you give me directions to the nearest bus stop? ||| 你能告诉我最近的公交站怎么走吗？
+Reversed ||| Could you tell me how to get to the bank? ||| 你能告诉我银行怎么走吗？
+Reversed ||| Could you tell me where the Science Museum is, please? ||| 您能告诉我科学博物馆在哪儿吗？
+Reversed ||| How can I get to the airport from here, please? ||| 请问从这里怎么去机场？
+Reversed ||| What's the best way to get to the hospital? ||| 去医院哪条路最近？
+Reversed ||| I'd like to know where the bus station is, please. ||| 我想问下公交站在哪。
+Reversed ||| How do I get to the Central Park, please? ||| 请问中央公园怎么走？
+Reversed ||| Would you mind giving me some directions? ||| 你介意给我指下方向吗？
+Reversed ||| Where is the nearest subway entrance, please? ||| 请问最近的地铁入口在哪？
+Reversed ||| How long will it take to get there? ||| 去那儿要多久？
+Reversed ||| How far is it? ||| 多远呢？
+Reversed ||| Is it far from here? ||| 它离这里远吗？
+Reversed ||| How to get to the bank? ||| 怎么去银行？
+Reversed ||| Does this bus go to the park? ||| 这趟公交去公园吗？
+Reversed ||| Could you show me the way? ||| 你能告诉我怎么去吗？
+Reversed ||| I'm looking for this address. ||| 我在找这个地方。
+Reversed ||| Where is the bathroom, please? ||| 请问洗手间在哪里？
+
+# 旅行，在路上
+Reversed ||| I went on a journey with my backpack a week ago. ||| 一个星期以前，我踏上了一段背包之旅。
+Reversed ||| I hate being bothered by phone calls during a trip. ||| 我讨厌在旅途中被电话打扰。
+Reversed ||| I enjoy being alone on the road. ||| 我喜欢一个人在旅途。
+Reversed ||| Traveling to different places is always fascinating to me. ||| 去不同的地方旅行对我来说总是很有吸引力。
+Reversed ||| You can experience various lifestyles. ||| 你可以体验各种不同的生活方式。
+Reversed ||| You'll meet all kinds of interesting people. ||| 你会遇到各式各样有趣的人。
+Reversed ||| I really enjoy the seafood, clean air and bright sunshine. ||| 我真的很喜欢海鲜、洁净的空气以及明媚的阳光。
+Reversed ||| Traveling is a good way to relax. ||| 旅行是一种很好的放松方式。
+Reversed ||| Do you like traveling? ||| 你喜欢旅游吗？
+Reversed ||| I enjoy traveling very much. ||| 我非常热爱旅游。
+Reversed ||| How was your trip? ||| 你的旅程怎么样？
+Reversed ||| We had a really nice trip. ||| 我们的旅程非常愉快。
+Reversed ||| A short trip is relaxing. ||| 短途旅行能让人放松。
+Reversed ||| He traveled to China last year. ||| 去年他去了中国旅游。
+Reversed ||| I want to travel around the world. ||| 我想环游世界。
+
+# 现在几点了？
+Reversed ||| Could you tell me the time, please? ||| 您能告诉我现在几点吗？
+Reversed ||| What's the time by your watch? ||| 你的手表现在是几点了？
+Reversed ||| What time do you have? ||| 你的表几点了？
+Reversed ||| Have you got the right time? ||| 你知道准确的时间吗？
+Reversed ||| It's ten minutes past three by my watch. ||| 我的手表是三点十分。
+Reversed ||| My watch says twelve noon. ||| 我的手表显示中午十二点。
+Reversed ||| It's twenty minutes to eleven. ||| 十点四十
+Reversed ||| It's a quarter past nine. ||| 九点一刻。
+Reversed ||| It's exactly two o'clock. ||| 两点整。
+Reversed ||| It's half past eight. ||| 八点半。
+Reversed ||| What time is it? ||| 几点了？
+Reversed ||| What's the time, please? ||| 请问现在几点了？
+Reversed ||| Do you have the time? ||| 你知道现在几点吗？
+Reversed ||| It's ten. ||| 十点。
+Reversed ||| It's six a.m. ||| 早上六点。
+Reversed ||| It's 9:15 p.m. ||| 晚上九点十五分。
+Reversed ||| It's five o'clock in the morning. ||| 早上五点。
+
+# 生命在于运动
+Reversed ||| Do you play any sports in your spare time? ||| 你在业余时间运动吗？
+Reversed ||| What kind of exercise do you like doing? ||| 你喜欢做什么样的运动？
+Reversed ||| Where do you do aerobics? ||| 你在哪里做有氧运动呢？
+Reversed ||| How often do you work out in a week? ||| 你一周运动几次？
+Reversed ||| I like jogging after work to relax. ||| 我下班后喜欢慢跑来放松。
+Reversed ||| We should start doing more outdoor activities. ||| 我们应该开始做更多户外运动。
+Reversed ||| I go to the gym four times a week. ||| 我一周去四次健身房。
+Reversed ||| I like lifting weights to get ripped. ||| 我喜欢举重来练肌肉。
+Reversed ||| I usually do my running on the treadmill. ||| 我经常在跑步机上跑步。
+Reversed ||| Do you like sports? ||| 你喜欢运动吗？
+Reversed ||| I like sports very much. ||| 我非常热爱运动。
+Reversed ||| Do you play soccer? ||| 你踢足球吗？
+Reversed ||| Can you play tennis? ||| 你会打网球吗？
+Reversed ||| I want to play ping-pong. ||| 我想打乒乓球。
+Reversed ||| Let's go swimming. ||| 我们去游泳吧。
+Reversed ||| Sports are good for health. ||| 运动有益于健康。
+
+# 生日快乐！
+Reversed ||| How do you like to celebrate your birthday? ||| 你喜欢怎么过生日？
+Reversed ||| Shall we have a surprise birthday party? ||| 我们要不要办个惊喜生日派对？
+Reversed ||| Who are you going to invite to your birthday party? ||| 你打算邀请谁参加你的生日派对？
+Reversed ||| What's the best birthday gift you have ever received? ||| 你收到的最棒的生日礼物是什么？
+Reversed ||| I'll have my birthday party on Saturday so more people can come. ||| 我会在周六举办生日派对，这样就能有更多的人来。
+Reversed ||| I'd like a bicycle as a gift for my birthday. ||| 我想要一辆自行车作为生日礼物。
+Reversed ||| We should get a cake for the birthday party. ||| 我们应该给生日派对准备一个蛋糕。
+Reversed ||| I'd just invite family since it's a small birthday party. ||| 由于只是个小型生日派对，所以我打算只邀请家人。
+Reversed ||| When is your birthday? ||| 你生日是什么时候？
+Reversed ||| Happy birthday to you! ||| 祝你生日快乐！
+Reversed ||| Have fun at the birthday party. ||| 生日派对要玩得尽兴。
+Reversed ||| This book is your birthday gift. ||| 这本书是你的生日礼物。
+Reversed ||| My birthday is in December. ||| 我的生日在十二月份。
+Reversed ||| The birthday cake is for you. ||| 这个生日蛋糕是给你的。
+
+# 电话响了
+Reversed ||| Hang on a second. I'll be right back. ||| 稍等片刻。我马上回来。
+Reversed ||| Please hold on and I'll put you through. ||| 请不要挂断，我帮您转接过去。
+Reversed ||| I'm afraid she's not in. ||| 恐怕她不在。
+Reversed ||| I'm afraid she's just stepped out. ||| 恐怕她刚出去了。
+Reversed ||| Sorry, but he can't come to the phone at the moment. ||| 不好意思，他现在没办法接电话。
+Reversed ||| Would you like to leave a message? ||| 您想留个言吗？
+Reversed ||| Can I take a message for you? ||| 我能帮您转告吗？
+Reversed ||| Please tell her to call me back. ||| 请转告她回我个电话。
+Reversed ||| I'm afraid you've dialed the wrong number. ||| 恐怕您拨错号码了。
+Reversed ||| There is no one here by that name. ||| 这儿没有叫那个名字的。
+Reversed ||| Who's that calling, please? ||| 请问哪位？
+Reversed ||| Hello, this is Mary speaking. ||| 你好，我是玛丽。
+Reversed ||| May I speak to Mr White? ||| 我可以和怀特先生讲话吗？
+Reversed ||| Is Mr Green out there? ||| 格林先生在吗？
+Reversed ||| Hold on, please. ||| 请稍等。
+Reversed ||| Wait a minute, please. ||| 请等一下。
+Reversed ||| Just one second, please. ||| 请稍等一会儿。
+Reversed ||| I'll call you back. ||| 我会给你回电话的。
+
+# 相亲相爱一家人
+Reversed ||| How many people are there in your family? ||| 你家里有几口人？
+Reversed ||| Do you have any brothers or sisters? ||| 你有兄弟姐妹吗？
+Reversed ||| Do you get along with your parents? ||| 你和父母相处融洽吗？
+Reversed ||| My elder brother got married last month. ||| 我哥哥上个月结婚了。
+Reversed ||| My family always eat together and chat. ||| 我们一家经常一起吃饭聊天。
+Reversed ||| My family usually goes on picnics during the weekends. ||| 我们家周末经常去野餐。
+Reversed ||| My mother stays at home and does the chores. ||| 我妈待在家里做家务。
+Reversed ||| I like helping my mother cooking. ||| 我喜欢帮老妈做饭。
+Reversed ||| My father prepares breakfast for us everyday. ||| 老爸每天给我们准备早餐。
+Reversed ||| I have a sister. ||| 我有个姐姐（妹妹）。
+Reversed ||| We are family. ||| 我们是一家人。
+Reversed ||| We all like Aunt Lucy. ||| 我们都喜欢露西婶婶。
+Reversed ||| My uncle Jone is really funny. ||| 我的叔叔乔恩非常有趣。
+Reversed ||| My father cooks for the family. ||| 我爸爸为家人做饭。
+Reversed ||| We have a big family dinner. ||| 我们吃一顿丰盛的家庭晚餐。
+Reversed ||| We visit our grandparents every weekend. ||| 我们每周末都去看望祖父母。
+
+# 道歉不只是sorry
+Reversed ||| I'm awfully sorry for being late. ||| 我迟到了，实在太抱歉了。
+Reversed ||| I owe you an apology. ||| 我欠你个道歉。
+Reversed ||| It's me to blame. ||| 是我的错。
+Reversed ||| I do apologize for my rudeness. ||| 我为我的无礼道歉。
+Reversed ||| Please forgive me for my ignorance. ||| 请原谅我的疏忽。
+Reversed ||| I beg your pardon for forgetting your birthday. ||| 我忘记了你的生日，请你原谅我。
+Reversed ||| I'm ashamed of my behavior. ||| 我为我的行为感到羞愧。
+Reversed ||| You have my sincere apology. ||| 我向你致以诚挚的歉意。
+Reversed ||| I can't tell you how sorry I am. ||| 我无法形容我有多抱歉。
+Reversed ||| I'm sorry. ||| 对不起。
+Reversed ||| I apologize. ||| 我道歉。
+Reversed ||| My apologies. ||| 我很抱歉
+Reversed ||| It's all my fault. ||| 都是我的错
+Reversed ||| I didn't mean it. ||| 我不是故意的。
+Reversed ||| I hope you will excuse me. ||| 我希望你能原谅我。
+Reversed ||| Please forgive me. ||| 请原谅我。
+Reversed ||| Please accept my apology. ||| 请接受我的道歉。
+
+# 阴天晴天下雨天
+Reversed ||| The weather is terrible today. ||| 今天天气很糟糕。
+Reversed ||| It looks as if it is going to rain. ||| 看起来似乎要下雨了。
+Reversed ||| I got caught in the rain yesterday. ||| 我昨天淋雨了。 ||| 例句：Make sure your laptop doesn't get caught in the rain.
+Reversed ||| I was wet to the skin. ||| 我全身都湿透了。
+Reversed ||| I was chilled to the bone. ||| 这天真是冷到骨子里了。
+Reversed ||| I hope it snows on Monday. ||| 希望星期一会下雪。
+Reversed ||| The heat is killing me! ||| 我要热死了！
+Reversed ||| It's been snowing for three days straight. ||| 已经连下三天的雪了。
+Reversed ||| The weather is unpredictable in Nanjing. ||| 南京天气变化莫测。 ||| 例句：Network traffic is as unpredictable as the weather.
+Reversed ||| Do you know what the weather will be like tomorrow? ||| 你知道明天天气怎么样吗？
+Reversed ||| The weather forecast says tomorrow will be a cloudy day. ||| 天气预报说明天是阴天。
+Reversed ||| It's a lovely day. ||| 天气真好。
+Reversed ||| It's getting cold. ||| 天变冷了。
+Reversed ||| Nice weather, isn't it? ||| 天气不错，是吧？
+Reversed ||| Is it hot outside today? ||| 今天外面热吗？
+Reversed ||| How's the weather? ||| 天气怎么样？
+Reversed ||| What's the weather like today? ||| 今天天气怎么样？
+Reversed ||| What's the temperature? ||| 气温是多少？

@@ -5,3 +5,6 @@ Reversed ||| practical ||| 实用的；实际的；操作性强的 ||| 备注：
 Reversed ||| Upon completion ||| 完成后；一经结束 ||| 备注：用法：非常正式的职场书面用语，通常后面接名词，引出完成某事后的下一步动作。例句：Upon completion of the test script, please upload it to the Git repository. (测试脚本编写完成后，请将其上传至 Git 仓库。)
 
 Reversed ||| cutting-edge ||| 尖端的；最前沿的；领先的 ||| 备注：用法：通常修饰技术 (technology)、研究或设备，表示处于行业最高水平。例句：Our new lab is equipped with cutting-edge 802.11ax testing instruments. (我们的新实验室配备了最前沿的 Wi-Fi 6 测试仪器。)
+
+Basic ||| 短语 just to name a few 在句子末尾表示什么意思？ ||| 意思是“仅举几例”、“这只是其中的几个代表”。 ||| 备注：常用来替代 and so on，表示除了列举的这几个，还有很多其他的。
+Basic ||| 当你向领导汇报工作，列举了几个修复的 Bug，想表示“这只是我修复的其中几个（其实修了很多）”，可以在句末加上哪个高级短语？ ||| just to name a few ||| 备注：例如：I fixed the disconnection bug and the memory leak, just to name a few.
